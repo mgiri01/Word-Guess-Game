@@ -1,0 +1,16 @@
+
+header{
+    color: yellow;
+    font-size:large;  
+}
+
+
+
+body{
+    color:yellow;
+    background:
+    url("../images/boxingbackground.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    background-size: cover;
+}
